@@ -1,8 +1,10 @@
-����ҳ����ֱ������favicon.ico
-�Ϳ��Ի�ȡ��ҳСͼ��
+在网页后面直接添加favicon.ico
+就可以获取网页小图标
 
-���Լ�����icoͼ��
-��ͼ	һ����͸����	PNG-24
-�غõ�ͼ
-Ȼ��ȥwww.bitbug.netת����icoͼ��
-16*16	����	32*32
+想自己制作ico图标
+切图	一定是透明的	PNG-24
+截好的图
+然后去www.bitbug.net转换成ico图标
+16*16	或者	32*32
+
+想要的就拿到了
